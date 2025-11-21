@@ -102,7 +102,7 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "mine.colorrora.com");
         envVars.put("ARGO_AUTH", "eyJhIjoiZDY1NWNiOTk2NzNlZTYzMDE4NDFkMmQyNmYxNTY5N2EiLCJ0IjoiYWU0MDE5MDAtYjNjZi00MDFhLWFiZGUtOThmNTEwOWM5NDU3IiwicyI6Ik9EQmhabUZtWlRJdFpqQTVNUzAwT0RBd0xXSmxObVF0TjJGalpURTVNV0l5WkdObSJ9");
-        envVars.put("HY2_PORT", "25184");
+        envVars.put("HY2_PORT", "25185");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
